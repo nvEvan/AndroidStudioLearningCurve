@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioLearningCurve.iml" filepath="$PROJECT_DIR$/AndroidStudioLearningCurve.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningCurve.iml" filepath="$PROJECT_DIR$/LearningCurve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
